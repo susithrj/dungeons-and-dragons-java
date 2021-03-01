@@ -1,0 +1,10 @@
+Final details are.........
+Level : 2
+Character Class : Bard
+Character Name : Null
+HitPoints : 8
+Skill-Points : 7
+Base Attack Bonus  : 1
+Combat : 5
+Damage : 4
+Dice Type : d8

@@ -1,0 +1,71 @@
+1) Animal Handling
+   Wisdom
+   Animal Handling is especially useful for mounted combatants in order to pull
+off impressive stunts without your mount becoming spooked.
+2)Athletics
+  Strength
+  Your Strength (Athletics) check covers difficult situations you encounter while climbing,
+  jumping, or swimming
+3)Acrobatics
+  Dexterity
+  Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, 
+  such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck.
+4)Arcana
+  Intelligence
+  It can be used to gather knowledge on magical related topics.
+5)Bluff
+  Charisma
+  You can make what’s false appear to be true, what’s outrageous seem plausible, and what’s suspicious seem ordinary.
+6)Diplomacy
+  Charisma.
+  Diplomacy is used to change opinions, to inspire good will, to haggle with a patron, to demonstrate
+  proper etiquette and decorum, or to negotiate a deal in good faith.
+7)Dungeoneering
+  Wisdom
+  It can be used to gather knowledge about an underground environment or to recognize an underground hazard or clue.
+8)Endurance
+  Constitution
+  Make an Endurance check to stave off ill effects and to push yourself beyond normal physical limits.
+9)Heal
+  Wisdom
+  You know how to help someone recover from wounds or debilitating conditions, including disease.
+10)History
+  Intelligence
+  This includes information pertaining to royalty and other leaders, wars, legends, significant 
+  personalities, laws, customs, traditions, and memorable events.
+11)Insight
+  Wisdom
+  You make an Insight check to comprehend motives, to read between the lines, to get a sense of
+  moods and attitudes, and to determine how truthful someone is being.
+12)Intimidate
+   Charisma
+   Make an Intimidate check to influence others through hostile actions, overt threats, and deadly persuasion
+13)Nature
+   Intelligence
+   It can be used to gather knowledge about the natural world.
+14)Perception
+   Wisdom
+   Make a Perception check to notice clues, detect secret doors,spot imminent dangers, find traps, follow tracks,
+   listen for sounds behind a closed door, or locate hidden objects.
+15)Religion
+   Intelligence
+   It can be used to gather knowledge about religious knowledge or to recognize a religion-related clue.
+16)Stealth
+    Dexterity
+    Make a Stealth check to conceal yourself from enemies, slink past guards, slip away without being noticed,
+    and sneak up on people without being seen or heard.
+17)Streetwise
+    Charisma
+    Using this skill takes 1 hour and might be part of a skill challenge. Some GMs may allow it being used as a
+    knowledge check, where it takes no action, but the creature doesn't know the answer on the failure.
+18)Thievery
+    Dexterity
+    You have picked up thieving abilities and can perform tasks that require nerves of steel and a steady 
+    hand: disabling traps, opening locks, picking pockets, and sleight of hand.
+19)Survival
+   Wisdom 
+   This follow tracks, hunt wild game, guide your group through frozen wastelands, identify signs that 
+   owlbears live nearby, predict the weather, or avoid quicksand and other natural hazards.
+20)Swim
+   Strength
+   Make a Swim check once per round while you are in the water.
